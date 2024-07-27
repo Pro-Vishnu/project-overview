@@ -19,7 +19,7 @@ import AllProjects from "../components/projects/allProjects";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 import myArticles from "../data/articles";
-import img from "../img01.jpeg"
+import img from "../img02.jpeg"
 import "./styles/homepage.css";
 
 const Homepage = () => {
